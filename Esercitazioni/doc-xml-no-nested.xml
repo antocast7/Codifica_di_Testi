@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<noNested>
+    <nested>
+        questo elemento è annidato correttamente
+    </nested>
+</noNested>
+
+
+<noNested>
+    <nogood>
+
+        <error>
+            qui ci sono più gerarchie
+    </nogood>
+
+        </error>
+</noNested>  
